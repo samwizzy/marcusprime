@@ -15,7 +15,7 @@
         "axios-mock-adapter": "1.16.0",
         "babel-plugin-transform-remove-console": "^6.9.4",
         "babel-polyfill": "7.0.0-beta.3",
-        "chart.js": "2.7.3",
+        "chart.js": "2.9.4",
         "date-fns": "2.0.0-alpha.27",
         "downshift": "3.2.6",
         "draft-js": "^0.11.1",

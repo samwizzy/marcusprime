@@ -88,7 +88,7 @@
         "cross-env": "5.2.0",
         "globby": "8.0.2",
         "js-beautify": "1.8.9",
-        "marked": "0.6.1",
+        "marked": "4.0.10",
         "purgecss": "1.1.0",
         "tailwindcss": "0.7.4",
         "webpack-bundle-analyzer": "3.0.4"

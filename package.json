@@ -23,7 +23,7 @@
         "firebase": "5.8.4",
         "formsy-react": "1.1.5",
         "google-map-react": "1.1.2",
-        "jsonwebtoken": "8.5.0",
+        "jsonwebtoken": "9.0.0",
         "jss-extend": "6.2.0",
         "jwt-decode": "2.2.0",
         "keycode": "2.2.0",
